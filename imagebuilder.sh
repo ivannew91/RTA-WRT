@@ -424,7 +424,7 @@ custom_packages() {
         "luci-app-zerotier|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
         "luci-app-ramfree|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
         "luci-app-3ginfo-lite|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
-        "modemband|https://https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/packages"
+        "modemband|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/packages"
         "luci-app-modemband|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
         "luci-app-sms-tool-js|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
 
