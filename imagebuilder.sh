@@ -402,7 +402,7 @@ custom_packages() {
         "tailscale|https://downloads.$op_sourse.org/releases/packages-24.10/$ARCH_3/packages"
         "python3-speedtest-cli|https://downloads.openwrt.org/releases/packages-$CURVER/$ARCH_3/packages"
 
-        "dns2tcp|https://downloads.mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-$CURVER/$ARCH_3/packages"
+        "dns2tcp|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-$CURVER/$ARCH_3/packages"
 
         "luci-app-tailscale|https://dl.openwrt.ai/packages-$CURVER/$ARCH_3/kiddin9"
         "luci-app-diskman|https://dl.openwrt.ai/packages-$CURVER/$ARCH_3/kiddin9"
@@ -421,12 +421,12 @@ custom_packages() {
         "luci-app-log-viewer|https://github.com/gSpotx2f/packages-openwrt/raw/refs/heads/master/current"
         "luci-app-temp-status|https://github.com/gSpotx2f/packages-openwrt/raw/refs/heads/master/current"
         
-        "luci-app-zerotier|https://downloads.mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
-        "luci-app-ramfree|https://downloads.mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
-        "luci-app-3ginfo-lite|https://downloads.mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
-        "modemband|https://https://downloads.mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/packages"
-        "luci-app-modemband|https://downloads.mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
-        "luci-app-sms-tool-js|https://downloads.mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
+        "luci-app-zerotier|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
+        "luci-app-ramfree|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
+        "luci-app-3ginfo-lite|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
+        "modemband|https://https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/packages"
+        "luci-app-modemband|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
+        "luci-app-sms-tool-js|https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/packages-24.10/$ARCH_3/luci"
 
         "luci-app-netspeedtest|https://fantastic-packages.github.io/packages/releases/$CURVER/packages/x86_64/luci"
     )
